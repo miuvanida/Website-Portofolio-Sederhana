@@ -4,7 +4,10 @@ Portofolio digital Yang menampilkan proyek, skill, dan pengalaman sebagai mahasi
 # Screenshoot Tampilan Website
 -Home-
 <img width="1893" height="990" alt="Image" src="https://github.com/user-attachments/assets/b3085ea7-f51e-449d-a57d-8f535c53ae9e" />
-![Image](https://github.com/user-attachments/assets/f5097f02-e3d0-4374-8ab5-d8489117e834)
 
 -About-
+<img width="1916" height="981" alt="Image" src="https://github.com/user-attachments/assets/b0b6c403-3cc4-4094-8a55-6818e0e59b4b" />
 
+-Skills-
+
+-Contact-
