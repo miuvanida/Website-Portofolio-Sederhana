@@ -9,5 +9,6 @@ Portofolio digital Yang menampilkan proyek, skill, dan pengalaman sebagai mahasi
 <img width="1916" height="981" alt="Image" src="https://github.com/user-attachments/assets/b0b6c403-3cc4-4094-8a55-6818e0e59b4b" />
 
 -Skills-
+<img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/5157a4ab-8848-45b4-8a79-d73ee6d92f16" />
 
 -Contact-
